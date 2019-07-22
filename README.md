@@ -1,14 +1,18 @@
 # Install nexus and push artifact to nexus repository (Linux)
-
-## Install
+:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+## Table of content
+1. [Install](#install)
+2. [Run as a service](#service)
+<a name="install"></a>
+## Install :wrench:
 
 - Đầu tiên vào trang [sonatype](https://help.sonatype.com/repomanager3/download) để tải nexus về 
 
 - Sau đó giải nén vào một thư mục nào đó >> Vào thư mục đã giải nén >> /home/duong/Downloads/nexus-3.17.0-01/bin >> ./nexus run
 
 - Sau khi chạy xong vào [localhost:8081](http://localhost:8081/) ta thấy giao diện như hình
-
-## Run as a service
+<a name="service"></a>
+## Run as a service :running_man:
 - Tạo một người dùng có đủ quyền để có thể chạy service trong file ***bin/nexus.rc*** ở đây e chọn root:
 ```run_as_user="root"``` thường thì đầu dòng có dấu # => uncomment nó.
 - Sau đó symlink từ InstallDir/bin/nexus vào /etc/init.d/nexus: 
