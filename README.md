@@ -1,4 +1,4 @@
-# Install nexus and push artifact to nexus repository (Linux)
+# Install Nexus and push artifactory to Nexus (Linux)
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 ## Table of content
 1. [Install](#install)
