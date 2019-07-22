@@ -43,4 +43,4 @@ systemctl start nexus.service
 
 - Trong đó ***enable***  để service được khởi động cùng hệ thống, ***start*** để chạy service.
 
-........Continue =>>>>>>>
+........Continue =>>>>>>> :notes: :notes: :notes: :notes: :notes: :notes: :notes: :notes: :notes:
